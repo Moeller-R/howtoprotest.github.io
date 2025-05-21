@@ -12,20 +12,22 @@
     margin: 20px;
     outline-color: red;
     outline-width: 2px;
+    outline-style: dashed;
 }
 
 #step-by-step {
     margin: auto;
     width: 200px;
     height: 200px;
-    
+    outline-color: red;
+    outline-width: 2px;
+    outline-style: dashed;
 }
 
 #welcome {
     margin: auto;
     text-align: center;
-    outline-color: red;
-    outline-width: 2px;
+    
 }
 
 #view-content {
@@ -34,4 +36,5 @@
     height: 200px;
     outline-color: red; 
     outline-width: 2px;
+    outline-style: dashed;
 }
