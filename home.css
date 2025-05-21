@@ -47,9 +47,10 @@ html {
 }
 
 #welcome img {
-    width: 30%;
-    height: 100%;
+    width: 600px;
+    height: 300px;
     margin: 0px 35%;
+    overflow: visible;
 }
 
 #view-content {
