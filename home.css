@@ -71,5 +71,5 @@ html {
     width: 300;
     height: 300;
     overflow: visible;
-    filter: drop-shadow(5px 5px 10px #000000);
+    filter: drop-shadow(5px 5px 20px #000000);
 }
