@@ -9,8 +9,7 @@
 }
 
 #main-elements {
-    margin-top: 55px;
-    margin-right: 55px;
+    margin: 55px 60px;
     outline-color: red;
     outline-width: 2px;
     outline-style: dashed;
