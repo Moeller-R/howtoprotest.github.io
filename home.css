@@ -11,14 +11,20 @@
 #step-by-step {
     width: 200px;
     height: 200px;
+    outline-color: red;
+    outline-width: 1px;
 }
 
 #welcome {
     margin-left: auto;
     margin-right: auto;
+    outline-color: red;
+    outline-width: 1px;
 }
 
 #view-content {
     width: 200px;
     height: 200px;
+    outline-color: red; 
+    outline-width: 1px;
 }
