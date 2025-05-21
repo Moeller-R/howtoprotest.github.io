@@ -6,12 +6,16 @@
     background-attachment: fixed;
     background-size: 100% 100%;
     background-color: red;
+    outline-color: red;
+    outline-width: 2px;
+    outline-style: dashed;
 }
 
 #main-elements {
     margin: 55px 70px;
     width: auto;
     height: 100%;
+    min-height: 100%;
     outline-color: red;
     outline-width: 2px;
     outline-style: dashed;
