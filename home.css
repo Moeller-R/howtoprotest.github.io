@@ -10,6 +10,7 @@
 
 #main-elements {
     margin: 20px;
+    align-self: center;
     outline-color: red;
     outline-width: 2px;
     outline-style: dashed;
