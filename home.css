@@ -36,6 +36,7 @@ html {
 }
 
 #step-by-step {
+    display: flex;
     box-sizing: content-box;
     justify-content: center;
     align-items: start;
@@ -47,6 +48,7 @@ html {
 }
 
 #welcome {
+    display: flex;
     justify-content: center;
     align-items: center;
 }
@@ -58,6 +60,7 @@ html {
 }
 
 #view-content {
+    display: flex;
     box-sizing: content-box;
     justify-content: center;
     align-items: flex-end;
