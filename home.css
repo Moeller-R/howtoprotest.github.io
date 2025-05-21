@@ -56,8 +56,9 @@ html {
 }
 
 #welcome img {
-    width: 600px;
-    height: 300px;
+    width: auto;
+    height: 100%;
+    aspect-ratio: 1;
 }
 
 #view-content {
