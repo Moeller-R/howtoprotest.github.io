@@ -49,6 +49,8 @@ html {
 
 #welcome {
     margin: 10px auto;
+    width: 100%;
+    height: auto;
     text-align: center;
     outline-color: red;
     outline-width: 2px;
