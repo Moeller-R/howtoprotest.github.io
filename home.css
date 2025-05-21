@@ -34,12 +34,12 @@ html {
 
 #step-by-step {
     margin: 0px 0px 10px 0px;
-    height: 30%;
+    height: 40%;
 }
 
 #step-by-step img {
-    width: 300px;
-    height: 300px;
+    width: 275;
+    height: 275;
     overflow: visible;
 }
 
@@ -55,11 +55,11 @@ html {
 
 #view-content {
     margin: 10px 0px 0px auto;
-    height: 30%;
+    height: 40%;
 }
 
 #view-content img {
-    width: 300px;
-    height: 300px;
+    width: 275;
+    height: 275;
     overflow: visible;
 }
