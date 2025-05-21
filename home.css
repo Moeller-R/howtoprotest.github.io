@@ -22,18 +22,21 @@ html {
     background-attachment: fixed;
     background-size: 100% 100%;
     background-color: red;
-
     padding: 55px 50px;
+
+    
 }
 
 #main-elements {
     overflow: visible;
     padding: 30px;
+
+    display: flex;
+    justify-content: center;
 }
 
 #step-by-step {
     margin: 0px 0px 10px 0px;
-    height: 40%;
     box-sizing: content-box;
 }
 
@@ -43,13 +46,12 @@ html {
 }
 
 #welcome {
-    height: 20%;
+    align-self: center;
 }
 
 #welcome img {
     width: 600px;
     height: 300px;
-    margin: auto;
     overflow: visible;
 }
 
