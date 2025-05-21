@@ -18,6 +18,7 @@
 
 #welcome {
     margin: auto;
+    text-align: center;
     outline-color: red;
     outline-width: 1px;
 }
