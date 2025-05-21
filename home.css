@@ -33,7 +33,7 @@ html {
 }
 
 #step-by-step {
-    margin: 30px 0px 10px 30px;
+    margin: 0px 0px 10px 0px;
     height: 30%;
 }
 
@@ -53,9 +53,8 @@ html {
 }
 
 #view-content {
-    margin: 10px 30px 30px auto;
+    margin: 10px 0px 0px auto;
     height: 30%;
-    flex-content;
 }
 
 #view-content img {
