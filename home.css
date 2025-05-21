@@ -19,25 +19,16 @@ html {
     background-attachment: fixed;
     background-size: 100% 100%;
     background-color: red;
-    outline-color: red;
-    outline-width: 2px;
-    outline-style: dashed;
 
     padding: 55px 50px;
 }
 
 #main-elements {
-    outline-color: red;
-    outline-width: 2px;
-    outline-style: dashed;
+    overflow: visible;
 
 }
 
 #step-by-step {
-    outline-color: red;
-    outline-width: 2px;
-    outline-style: dashed;
-
     margin: 30px 0px 10px 30px;
     height: 30%;
 }
@@ -49,11 +40,6 @@ html {
 }
 
 #welcome {
-    text-align: center;
-    outline-color: red;
-    outline-width: 2px;
-    outline-style: dashed;
-
     height: 20%;
 }
 
@@ -64,10 +50,6 @@ html {
 }
 
 #view-content {
-    outline-color: red;
-    outline-width: 2px;
-    outline-style: dashed;
-
     margin: 10px 30px 30px auto;
     height: 30%;
 }
