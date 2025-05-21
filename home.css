@@ -8,19 +8,24 @@
     background-color: red;
 }
 
+#main-elements {
+    margin: 20px;
+    outline-color: red;
+    outline-width: 2px;
+}
+
 #step-by-step {
     margin: auto;
     width: 200px;
     height: 200px;
-    outline-color: red;
-    outline-width: 1px;
+    
 }
 
 #welcome {
     margin: auto;
     text-align: center;
     outline-color: red;
-    outline-width: 1px;
+    outline-width: 2px;
 }
 
 #view-content {
@@ -28,5 +33,5 @@
     width: 200px;
     height: 200px;
     outline-color: red; 
-    outline-width: 1px;
+    outline-width: 2px;
 }
