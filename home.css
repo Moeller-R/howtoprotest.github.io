@@ -49,8 +49,7 @@ html {
 
 #welcome img {
     width: auto;
-    height: 100%;
-    aspect-ratio: 1;
+    height: auto;
 }
 
 #view-content {
