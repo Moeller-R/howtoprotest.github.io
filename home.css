@@ -25,7 +25,7 @@ html {
 
 #main-elements {
     overflow: visible;
-
+    padding: 30px;
 }
 
 #step-by-step {
@@ -52,6 +52,7 @@ html {
 #view-content {
     margin: 10px 30px 30px auto;
     height: 30%;
+    flex-content;
 }
 
 #view-content img {
