@@ -64,9 +64,11 @@ html {
     box-sizing: content-box;
     justify-content: center;
     align-items: flex-end;
+    overflow: visible;
 }
 
 #view-content img {
     width: 300;
     height: 300;
+    overflow: visible;
 }
