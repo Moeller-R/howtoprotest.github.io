@@ -9,7 +9,8 @@
 }
 
 #main-elements {
-    margin: 20px;
+    margin-top: 50px;
+    margin-right: 75px;
     align-self: center;
     outline-color: red;
     outline-width: 2px;
