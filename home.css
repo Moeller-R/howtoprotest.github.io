@@ -48,8 +48,9 @@ html {
 }
 
 #welcome img {
-    width: auto;
-    height: auto;
+    width: 30%;
+    height: 100%;
+    margin: 0px 35%;
 }
 
 #view-content {
