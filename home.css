@@ -44,7 +44,9 @@ html {
 #welcome {
     margin: auto;
     text-align: center;
-    
+    outline-color: red;
+    outline-width: 2px;
+    outline-style: dashed;
 }
 
 #view-content {
