@@ -13,10 +13,6 @@ html {
 }
 
 #main {
-    width: 100%;
-    height: 80%
-    padding: 30px;
-    margin: 0px;
     background-image: url(images/background.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -25,24 +21,24 @@ html {
     outline-color: red;
     outline-width: 2px;
     outline-style: dashed;
+
+    
 }
 
 #main-elements {
-    margin: 55px 70px;
-    width: auto;
-    height: 100%;
     outline-color: red;
     outline-width: 2px;
     outline-style: dashed;
+
+
 }
 
 #step-by-step {
-    margin: 30px auto 10px 30px;
-    width: 200px;
-    height: 200px;
     outline-color: red;
     outline-width: 2px;
     outline-style: dashed;
+
+
 }
 
 #step-by-step img {
@@ -51,22 +47,20 @@ html {
 }
 
 #welcome {
-    margin: 10px auto;
-    width: 100%;
-    height: auto;
     text-align: center;
     outline-color: red;
     outline-width: 2px;
     outline-style: dashed;
+
+
 }
 
 #view-content {
-    margin: 10px 30px 30px auto;
-    width: 200px;
-    height: 200px;
     outline-color: red;
     outline-width: 2px;
     outline-style: dashed;
+
+
 }
 
 #view-content img {
