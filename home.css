@@ -9,6 +9,7 @@
 }
 
 #step-by-step {
+    margin: auto;
     width: 200px;
     height: 200px;
     outline-color: red;
@@ -16,13 +17,13 @@
 }
 
 #welcome {
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
     outline-color: red;
     outline-width: 1px;
 }
 
 #view-content {
+    margin: auto;
     width: 200px;
     height: 200px;
     outline-color: red; 
