@@ -36,8 +36,8 @@ html {
 }
 
 #step-by-step {
-    margin: 0px 0px 10px 0px;
     box-sizing: content-box;
+    justify-content: center;
 }
 
 #step-by-step img {
@@ -46,7 +46,7 @@ html {
 }
 
 #welcome {
-    align-self: center;
+    align-self: baseline;
 }
 
 #welcome img {
@@ -56,9 +56,8 @@ html {
 }
 
 #view-content {
-    margin: 10px 0px 1px 0px;
-    height: 40%;
     box-sizing: content-box;
+    justify-content: center;
 }
 
 #view-content img {
