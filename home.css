@@ -38,6 +38,7 @@ html {
 #step-by-step {
     box-sizing: content-box;
     justify-content: center;
+    align-items: start;
 }
 
 #step-by-step img {
@@ -46,7 +47,8 @@ html {
 }
 
 #welcome {
-    align-self: baseline;
+    justify-content: center;
+    align-items: center;
 }
 
 #welcome img {
@@ -58,6 +60,7 @@ html {
 #view-content {
     box-sizing: content-box;
     justify-content: center;
+    align-items: flex-end;
 }
 
 #view-content img {
