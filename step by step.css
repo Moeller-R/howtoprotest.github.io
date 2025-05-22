@@ -52,7 +52,7 @@ html {
 #content {
     display: flex;
     justify-content: start;
-    align-items: center;
+    align-items: start;
     flex-direction: column;
     margin: 10px
 }
