@@ -40,7 +40,7 @@ html {
     height: fit-content;
 }
 
-#stepa {
+#step {
     display: flex;
     justify-content: start;
     align-items: center;
@@ -54,4 +54,8 @@ html {
     align-items: start;
     flex-direction: column;
     margin: 10px
+}
+
+#content p {
+    text-wrap: pretty;
 }
