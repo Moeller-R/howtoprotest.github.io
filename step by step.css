@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-    border: 2px dotted red;
+
 }
 
 html,body,div{
@@ -23,7 +23,7 @@ html {
     background-attachment: fixed;
     background-size: 100% 100%;
     background-color: red;
-    padding: 70px 75px;
+    padding: 60px 75px;
 
 }
 
