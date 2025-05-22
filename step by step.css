@@ -30,18 +30,21 @@ html {
 #main-elements {
     display: flex; 
     flex-direction: column;
+    margin-left: 30px;
 }
 
 #header {
     display: flex;
     justify-content: start;
     align-items: center;
+    margin: 10px;
 }
 
 #blurb {
     display: flex;
     justify-content: start;
     align-items: center;
+    margin: 10px
 }
 
 #content {
@@ -49,4 +52,5 @@ html {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    margin: 10px
 }
