@@ -43,8 +43,8 @@ html {
 }
 
 #step-by-step img {
-    width: 300;
-    height: 300; 
+    width: 300px;
+    height: 300px; 
     filter: drop-shadow(5px 5px 20px #000000);
 }
 
@@ -65,12 +65,11 @@ html {
     box-sizing: content-box;
     justify-content: center;
     align-items: flex-end;
-    overflow: visible;
 }
 
 #view-content img {
-    width: 300;
-    height: 300;
+    width: 300px;
+    height: 300px;
     overflow: visible;
     filter: drop-shadow(5px 5px 20px #000000);
 }
