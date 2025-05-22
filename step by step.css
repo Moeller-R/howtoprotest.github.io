@@ -32,7 +32,7 @@ html {
     margin-right: 30px;
 }
 
-#header {
+#section {
     display: flex;
     justify-content: start;
     align-items: center;
@@ -40,7 +40,7 @@ html {
     height: fit-content;
 }
 
-#blurb {
+#stepa {
     display: flex;
     justify-content: start;
     align-items: center;
