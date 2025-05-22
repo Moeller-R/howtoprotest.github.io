@@ -38,13 +38,15 @@ html {
     justify-content: start;
     align-items: center;
     margin: 10px;
+    height: fit-content;
 }
 
 #blurb {
     display: flex;
     justify-content: start;
     align-items: center;
-    margin: 10px
+    margin: 10px;
+    height: fit-content;
 }
 
 #content {
