@@ -58,6 +58,8 @@ html {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    width: auto;
+    overflow: visible;
 }
 
 #text {
