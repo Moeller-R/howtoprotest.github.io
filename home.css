@@ -67,7 +67,7 @@ html {
 #welcome h1 {
     margin-bottom: 0px;
     padding: 3px;
-    border-radius: 10px 0px;
+    border-radius: 10px 0px 0px 10px;
     text-align: center;
     color: red;
     text-shadow: -3px 3px 3px #000000;
@@ -78,7 +78,7 @@ html {
     margin-top: 0px;
     padding: 3px;
     color: red;
-    text-shadow: -3px 3px 3px #000000;
+    text-shadow: -3px 3px 5px #000000;
     background-color: aliceblue;
 }
 
