@@ -62,7 +62,7 @@ html {
 
 #text {
     border-radius: 10px;
-    width: 100%;
+    width: auto;
     background-color: aliceblue;
     padding: 10px;
 }
