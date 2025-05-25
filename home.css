@@ -36,7 +36,6 @@ html {
 #main-elements {
     overflow: visible;
     padding: 30px;
-
     display: flex;
     justify-content: center;
 }
@@ -73,12 +72,14 @@ html {
 
 #top {
     margin-bottom: 2px;
-    filter: drop-shadow(5px 5px 5px #000000);
+    filter: drop-shadow(-5px 5px 3px #000000);
+    max-width: 300px;
 }
 
 #bottom {
     margin-top: 2px;
-    filter: drop-shadow(5px 5px 5px #000000);
+    filter: drop-shadow(-5px 5px 3px #000000);
+    max-width: 300px;
 }
 
 #view-content {
