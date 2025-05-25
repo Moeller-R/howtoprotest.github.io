@@ -64,7 +64,7 @@ html {
 #text {
     border-radius: 10px;
     background-color: aliceblue;
-    padding: 10px;
+    padding: 50px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -73,13 +73,13 @@ html {
 #top {
     margin-bottom: 2px;
     filter: drop-shadow(-5px 5px 3px #000000);
-    max-width: 300px;
+    max-width: 500px;
 }
 
 #bottom {
     margin-top: 2px;
     filter: drop-shadow(-5px 5px 3px #000000);
-    max-width: 300px;
+    max-width: 500px;
 }
 
 #view-content {
