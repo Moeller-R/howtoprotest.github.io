@@ -58,6 +58,8 @@ html {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    background-color: azure;
+    border-radius: 10px;
 }
 
 #welcome h1 {
