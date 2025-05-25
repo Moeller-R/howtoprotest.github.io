@@ -69,7 +69,7 @@ html {
     flex-direction: column;
     align-items: center;
     border: 15px solid #880808;
-    box-shadow: -5px -5px black;
+    box-shadow: inset -5px -5px black;
 }
 
 #top {
