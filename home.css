@@ -59,9 +59,8 @@ html {
     align-items: center;
 }
 
-#welcome img {
-    width: 600px;
-    height: 300px;
+#welcome h1 {
+    text-align: center;
 }
 
 #view-content {
