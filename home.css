@@ -68,13 +68,15 @@ html {
     margin-bottom: 5px;
     text-align: center;
     color: red;
-    text-shadow: -3px 3px 5px #000000;
+    text-shadow: -3px 3px 3px #000000;
+    background-color: aliceblue;
 }
 
 #welcome h3 {
     margin-top: 5px;
     color: red;
     text-shadow: -3px 3px 3px #000000;
+    background-color: aliceblue;
 }
 
 #view-content {
