@@ -70,7 +70,9 @@ html {
     align-items: center;
     border: 15px solid #880808;
     box-shadow: inset -5px -5px 5px black,
-                inset 5px 5px 5px black;
+                inset 5px 5px 5px black,
+                -5px -5px 5px black,
+                5px 5px 5px black;
 }
 
 #top {
