@@ -70,7 +70,7 @@ html {
 #welcome h3 {
     margin-top: 5px;
     color: red;
-    text-shadow: -3px 3px 0px #000000;
+    text-shadow: -3px 3px 10px #000000;
 }
 
 #view-content {
