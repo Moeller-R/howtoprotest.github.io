@@ -62,20 +62,18 @@ html {
 
 #top {
     margin-bottom: 0px;
-    padding: 10px;
+    padding: 10px, 10px, 10px, 2px;
     background-color: aliceblue;
     width: 100%;
     border-radius: 10px 10px 0px 0px;
-    border-color: red;
 }
 
 #bottom {
     margin-top: 0px;
-    padding: 10px;
+    padding: 2px, 10px, 10px, 10px;
     background-color: aliceblue;
     width: 100%;
     border-radius: 0px 0px 10px 10px;
-    border-color: red;
 }
 
 #view-content {
