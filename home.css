@@ -79,7 +79,7 @@ html {
 
 #bottom {
     margin-top: 8px;
-    filter: drop-shadow(-3px 3px 1px #000000);
+    filter: drop-shadow(-3px 3px 0px #880808);
     max-width: 500px;
 }
 
