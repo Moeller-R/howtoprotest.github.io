@@ -16,6 +16,14 @@ html {
    width: 100%;
 }
 
+.button {
+    filter: drop-shadow(5px 5px 20px #000000);
+}
+
+.button:hover {
+    filter: drop-shadow(5px 5px 20px #868686);
+}
+
 #main {
     background-image: url(images/mainbackground.png);
     background-repeat: no-repeat;
@@ -43,11 +51,6 @@ html {
 #step-by-step img {
     width: 300px;
     height: 300px; 
-    filter: drop-shadow(5px 5px 20px #000000);
-}
-
-#step-by-step img:hover {
-    filter: drop-shadow(5px 5px 20px #868686);
 }
 
 #welcome {
