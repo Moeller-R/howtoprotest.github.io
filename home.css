@@ -63,12 +63,12 @@ html {
 #welcome h1 {
     text-align: center;
     color: red;
-    text-shadow: #000000;
+    text-shadow: 3px 3px 0px #000000;
 }
 
 #welcome h3 {
     color: red;
-    text-shadow: #000000;
+    text-shadow: 3px 3px 0px #000000;
 }
 
 #view-content {
