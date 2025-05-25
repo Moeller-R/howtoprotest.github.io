@@ -61,27 +61,21 @@ html {
 }
 
 #top {
-    width: 100%;
     margin-bottom: 0px;
     padding: 3px;
+    background-color: aliceblue;
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+    border-color: red;
 }
 
 #bottom {
-    width: 100%;
     margin-top: 0px;
     padding: 3px;
-}
-
-#top img {
-    border-radius: 10px 10px 0px 0px;
-    border-color: red;
     background-color: aliceblue;
-}
-
-#bottom img {
+    width: 100%;
     border-radius: 0px 0px 10px 10px;
     border-color: red;
-    background-color: aliceblue;
 }
 
 #view-content {
