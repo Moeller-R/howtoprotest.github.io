@@ -71,13 +71,13 @@ html {
 }
 
 #top {
-    margin-bottom: 2px;
+    margin-bottom: 8px;
     filter: drop-shadow(-5px 5px 3px #000000);
     max-width: 500px;
 }
 
 #bottom {
-    margin-top: 2px;
+    margin-top: 8px;
     filter: drop-shadow(-5px 5px 3px #000000);
     max-width: 500px;
 }
