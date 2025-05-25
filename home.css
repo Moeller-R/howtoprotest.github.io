@@ -62,7 +62,6 @@ html {
 
 #text {
     border-radius: 10px;
-    width: auto;
     background-color: aliceblue;
     padding: 10px;
     display: flex;
@@ -71,13 +70,11 @@ html {
 }
 
 #top {
-    width: auto;
     margin-bottom: 2px;
     filter: drop-shadow(5px 5px 20px #000000);
 }
 
 #bottom {
-    width: auto;
     margin-top: 2px;
     filter: drop-shadow(5px 5px 20px #000000);
 }
