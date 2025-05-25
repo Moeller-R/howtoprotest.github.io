@@ -71,12 +71,12 @@ html {
 
 #top {
     margin-bottom: 2px;
-    filter: drop-shadow(5px 5px 20px #000000);
+    filter: drop-shadow(5px 5px 5px #000000);
 }
 
 #bottom {
     margin-top: 2px;
-    filter: drop-shadow(5px 5px 20px #000000);
+    filter: drop-shadow(5px 5px 5px #000000);
 }
 
 #view-content {
