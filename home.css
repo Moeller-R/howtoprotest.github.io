@@ -57,10 +57,18 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 
 #welcome h1 {
     text-align: center;
+    color: red;
+    text-shadow: #000000;
+}
+
+#welcome h3 {
+    color: red;
+    text-shadow: #000000;
 }
 
 #view-content {
