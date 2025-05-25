@@ -60,21 +60,27 @@ html {
     flex-direction: column;
 }
 
-#top img {
+#top {
     width: 100%;
     margin-bottom: 0px;
     padding: 3px;
+}
+
+#bottom {
+    width: 100%;
+    margin-top: 0px;
+    padding: 3px;
+}
+
+#top img {
     border-radius: 10px 10px 0px 0px;
-    color: red;
+    border-color: red;
     background-color: aliceblue;
 }
 
 #bottom img {
-    width: 100%;
-    margin-top: 0px;
-    padding: 3px;
     border-radius: 0px 0px 10px 10px;
-    color: red;
+    border-color: red;
     background-color: aliceblue;
 }
 
