@@ -78,7 +78,7 @@ html {
 
 #bottom {
     margin-top: 8px;
-    filter: drop-shadow(-5px 5px 3px #000000);
+    filter: drop-shadow(-3px 3px 3px #000000);
     max-width: 500px;
 }
 
