@@ -25,6 +25,7 @@ html {
     align-content: space-between;
     flex-direction: column;
     overflow: visible;
+    height: 100%;
 }
 
 #main-elements {
