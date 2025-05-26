@@ -52,7 +52,7 @@ html {
     border: 7px solid black;
     color: aliceblue;
     text-shadow: -1px 1px 2px #541a2a;
-    line-height: 0;
+    line-height: 0.1;
 }
 
 #step {
@@ -72,7 +72,7 @@ html {
                 inset -2px 2px 2px #541a2a,
                 inset 2px -2px 2px #541a2a;
     text-shadow: -1px 1px 2px #541a2a;
-    line-height: 0;
+    line-height: 0.1;
 }
 
 
