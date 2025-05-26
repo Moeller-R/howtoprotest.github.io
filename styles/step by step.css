@@ -71,6 +71,8 @@ html {
 #navigation-buttons * {
     width: 125px;
     height: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 #navigation-buttons img {
