@@ -20,7 +20,7 @@ html {
     background-attachment: fixed;
     background-size: 100% 100%;
     background-color: red;
-    padding: 80px;
+    padding: 0px 80px;
     display: flex;
     align-content: space-between;
     flex-direction: column;
@@ -34,6 +34,7 @@ html {
     margin-right: 30px;
     overflow: scroll;
     overflow-x: hidden;
+    scrollbar-width: thin;
 }
 
 #section {
@@ -71,6 +72,7 @@ html {
     padding-left: 20px;
     padding-right: 20px;
     position: sticky;
+    height: 80px;
 }
 
 #navigation-buttons * {
@@ -91,8 +93,8 @@ html {
     align-self: flex-end;
     width: 200px;
     height: 80px;
-    margin-top: -20px;
     position: sticky;
+    height: 80px;
 }
 
 #next-button a,img {
