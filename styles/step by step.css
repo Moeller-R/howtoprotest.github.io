@@ -57,15 +57,12 @@ html {
                 inset 2px 2px 2px #541a2a,
                 inset -2px 2px 2px #541a2a,
                 inset 2px -2px 2px #541a2a;
-}
-
-#section h1 {
     text-shadow: -1px 1px 2px #541a2a;
 }
 
 #step {
     display: flex;
-    justify-items: flex-start;
+    justify-items: center;
     align-items: center;
     margin: 10px;
     height: fit-content;
@@ -79,10 +76,6 @@ html {
                 inset 2px 2px 2px #541a2a,
                 inset -2px 2px 2px #541a2a,
                 inset 2px -2px 2px #541a2a;
-}
-
-#step h2 {
-    text-align: center;
     text-shadow: -1px 1px 2px #541a2a;
 }
 
