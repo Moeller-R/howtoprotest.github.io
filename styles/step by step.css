@@ -97,6 +97,7 @@ html {
     position: sticky;
     background-color: #83243d;
     justify-self: end;
+    align-self: end;
 }
 
 #next-button a,img {
