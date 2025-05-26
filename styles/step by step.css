@@ -92,6 +92,7 @@ html {
                 2px 2px 2px black,
                 -2px 2px 2px black,
                 2px -2px 2px black;
+    justify-self: stretch;
 }
 
 #content p {
