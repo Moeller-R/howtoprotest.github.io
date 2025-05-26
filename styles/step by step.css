@@ -64,16 +64,14 @@ html {
 
 #next-button {
     align-self: flex-end;
-    width: 50px;
-    height: 20px;
+    width: 200px;
+    height: 80px;
 }
 
-#next-buttin a {
-    width: 50px;
-    height: 20px;
+#next-button a {
+    size: inherit;
 }
 
-#next-button img {
-    width: 50px;
-    height: 20px;
+#next-button * {
+    size: inherit;
 }
