@@ -92,7 +92,7 @@ html {
                 2px 2px 2px black,
                 -2px 2px 2px black,
                 2px -2px 2px black;
-    justify-content: stretch;
+    height: 100%;
 }
 
 #content p {
