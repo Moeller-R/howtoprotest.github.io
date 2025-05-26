@@ -95,7 +95,7 @@ html {
 }
 
 #next-button {
-    border-radius: 10px;
+    border-radius: 10px 10px 0px 0px;
     height: 81px;
     width: 100%;
     background-color: #83243d;
