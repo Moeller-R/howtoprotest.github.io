@@ -76,9 +76,7 @@ html {
 #navigation-buttons img {
     border: 5px solid grey;
     border-radius: 5px;
-    box-shadow: inset -5px -5px 5px black,
-                inset 10px 10px 5px black,
-                -2px -2px 5px black,
+    box-shadow: -2px -2px 5px black,
                 2px 2px 5px black,
                 2px -2px 5px black,
                 2px -2px 5px black;
@@ -93,4 +91,12 @@ html {
 
 #next-button * {
     size: inherit;
+}
+
+#next-button img {
+    border-radius: 5px;
+    box-shadow: -2px -2px 5px darkred,
+                2px 2px 5px darkred,
+                2px -2px 5px darkred,
+                2px -2px 5px darkred;
 }
