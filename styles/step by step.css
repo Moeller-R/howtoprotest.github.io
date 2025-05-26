@@ -86,7 +86,8 @@ html {
 }
 
 #navigation-buttons a {
-    display: block;
+    display: flex;
+    align-content: center;
 }
 
 #navigation-buttons img {
