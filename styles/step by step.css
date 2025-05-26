@@ -131,7 +131,7 @@ html {
 #bottom-navigation-buttons {
     border-radius: 10px 10px 0px 0px;
     display: flex;
-    align-content: center;
+    align-items: center;
     justify-content: space-between;
     padding-left: 20px;
     padding-right: 20px;
