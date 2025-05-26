@@ -65,7 +65,10 @@ html {
     height: 20px;
 }
 
+#next-buttin a {
+    size: inherit;
+}
+
 #next-button img {
-    width: inherit;
-    height: inherit;
+    size: inherit;
 }
