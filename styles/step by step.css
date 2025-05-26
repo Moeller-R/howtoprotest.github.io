@@ -98,10 +98,10 @@ html {
     text-wrap: pretty;
 }
 
-#navigation-buttons {
+#top-navigation-buttons {
     border-radius: 0px 0px 10px 10px;
     display: flex;
-    align-items: center;
+    align-content: center;
     justify-content: space-between;
     padding-left: 20px;
     padding-right: 20px;
@@ -109,7 +109,7 @@ html {
     background-color: #83243d;
 }
 
-#navigation-buttons a {
+#top-navigation-buttons a {
     width: 125px;
     height: 50px;
     display: flex;
@@ -117,7 +117,7 @@ html {
     justify-items: center;
 }
 
-#navigation-buttons img {
+#top-navigation-buttons img {
     width: inherit;
     height: inherit;
     border: 5px solid grey;
@@ -128,29 +128,36 @@ html {
                 2px -2px 5px black;
 }
 
-#next-button {
+#bottom-navigation-buttons {
     border-radius: 10px 10px 0px 0px;
-    height: 81px;
-    width: 100%;
-    background-color: #83243d;
-    align-self: flex-end;
     display: flex;
-    align-items: center;
-    justify-content: flex-end;
+    align-content: center;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 81px;
+    background-color: #83243d;
+    
 }
 
-#next-button a,img {
+#bottom-navigation-buttons a,img {
     margin-top: -10px;
     width: 170px;
     height: 68px;
 }
 
-#next-button a {
-    display: block;
+#bottom-navigation-buttons a {
+    width: 125px;
+    height: 50px;
+    display: flex;
+    align-items: flex-start;
+    justify-items: center;
 }
 
-#next-button img {
-    border: 5px solid darkred;
+#bottom-navigation-buttons img {
+    width: inherit;
+    height: inherit;
+    border: 5px solid grey;
     border-radius: 20px;
     box-shadow: -2px -2px 5px black,
                 2px 2px 5px black,
