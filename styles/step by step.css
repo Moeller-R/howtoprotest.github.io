@@ -83,10 +83,12 @@ html {
 #navigation-buttons a {
     width: 125px;
     height: 50px;
+    display: block;
 }
 
 #navigation-buttons img {
-    size: inherit;
+    width: inherit;
+    height: inherit;
     display: inline-block;
     border: 5px solid grey;
     border-radius: 5px;
