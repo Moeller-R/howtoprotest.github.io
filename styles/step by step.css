@@ -60,6 +60,7 @@ html {
 
 #content p {
     text-wrap: pretty;
+    overflow: scroll;
 }
 
 #navigation-buttons {
