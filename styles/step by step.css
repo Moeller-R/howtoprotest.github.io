@@ -53,10 +53,10 @@ html {
     padding: 5px;
     border: 7px solid black;
     color: aliceblue;
-    box-shadow: inset -3px -3px 3px #541a2a,
-                inset 3px 3px 3px #541a2a,
-                inset -3px 3px 3px #541a2a,
-                inset 3px -3px 3px #541a2a;
+    box-shadow: inset -2px -2px 3px #541a2a,
+                inset 2px 2px 3px #541a2a,
+                inset -2px 2px 3px #541a2a,
+                inset 2px -2px 3px #541a2a;
 }
 
 #step {
@@ -71,10 +71,10 @@ html {
     padding: 5px;
     border: 7px solid black;
     color: aliceblue;
-    box-shadow: inset -3px -3px 3px #541a2a,
-                inset 3px 3px 3px #541a2a,
-                inset -3px 3px 3px #541a2a,
-                inset 3px -3px 3px #541a2a;
+    box-shadow: inset -2px -2px 3px #541a2a,
+                inset 2px 2px 3px #541a2a,
+                inset -2px 2px 3px #541a2a,
+                inset 2px -2px 3px #541a2a;
 }
 
 #step h2 {
