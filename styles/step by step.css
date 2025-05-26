@@ -32,7 +32,7 @@ html {
     display: flex; 
     flex-direction: column;
     margin-left: 30px;
-    margin-right: 30px;
+
     overflow: scroll;
     overflow-x: hidden;
     scrollbar-width: thin;
@@ -93,14 +93,15 @@ html {
 
 #next-button {
     align-self: flex-end;
-    width: 200px;
     height: 80px;
+    width: 100%;
     position: sticky;
     background-color: brown;
 }
 
 #next-button a,img {
-    size: inherit;
+    width: 200px;
+    height: 80px;
 }
 
 #next-button img {
