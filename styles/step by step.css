@@ -94,7 +94,6 @@ html {
 #next-button {
     height: 80px;
     width: 100%;
-    position: sticky;
     background-color: #83243d;
     justify-self: flex-end;
 }
