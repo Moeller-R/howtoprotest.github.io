@@ -106,7 +106,7 @@ html {
     align-self: flex-end;
     display: flex;
     align-items: center;
-    justify-items: flex-end;
+    justify-content: flex-end;
 }
 
 #next-button a,img {
