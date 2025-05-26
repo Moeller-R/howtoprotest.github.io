@@ -68,10 +68,10 @@ html {
     border: 7px solid black;
     color: aliceblue;
     text-align: center;
-    box-shadow: inline -2px -2px 2px #83243d,
-                inline 2px 2px 2px #83243d,
-                inline -2px 2px 2px #83243d,
-                inline 2px -2px 2px #83243d;
+    box-shadow: inset -2px -2px 2px #83243d,
+                inset 2px 2px 2px #83243d,
+                inset -2px 2px 2px #83243d,
+                inset 2px -2px 2px #83243d;
 }
 
 
