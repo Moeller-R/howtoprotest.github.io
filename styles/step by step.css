@@ -62,14 +62,15 @@ html {
     text-wrap: pretty;
 }
 
+#navigation-buttons {
+    display: flex;
+    align-items: space-between;
+}
+
 #next-button {
     align-self: flex-end;
     width: 200px;
     height: 80px;
-}
-
-#next-button a {
-    size: inherit;
 }
 
 #next-button * {
