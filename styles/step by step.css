@@ -85,12 +85,8 @@ html {
     height: 50px;
 }
 
-#navigation-buttons a {
-    display: flex;
-    align-content: center;
-}
-
 #navigation-buttons img {
+    display: inline-block;
     border: 5px solid grey;
     border-radius: 5px;
     box-shadow: -2px -2px 5px black,
