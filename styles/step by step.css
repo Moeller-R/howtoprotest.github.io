@@ -86,6 +86,7 @@ html {
 }
 
 #navigation-buttons img {
+    size: inherit;
     display: inline-block;
     border: 5px solid grey;
     border-radius: 5px;
