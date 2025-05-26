@@ -36,7 +36,7 @@ html {
     justify-content: flex-start;
     overflow: scroll;
     overflow-x: hidden;
-    scroll-margin-right: -30px;
+    scroll-margin-left: 30px;
     scrollbar-width: thin;
     height: 100%;
 }
@@ -141,7 +141,6 @@ html {
 }
 
 #bottom-navigation-buttons a,img {
-    margin-top: -10px;
     width: 170px;
     height: 68px;
 }
