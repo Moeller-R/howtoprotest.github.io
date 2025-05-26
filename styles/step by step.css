@@ -95,7 +95,7 @@ html {
     height: 80px;
     width: 100%;
     background-color: #83243d;
-    justify-self: flex-end;
+    align-self: flex-end;
     display: flex;
     align-content: center;
     justify-content: flex-end;
