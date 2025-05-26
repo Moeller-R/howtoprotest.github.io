@@ -148,7 +148,7 @@ html {
 
 #bottom-navigation-buttons a {
     display: flex;
-    align-items: flex-start;
+    align-items: center;
     justify-items: center;
 }
 
