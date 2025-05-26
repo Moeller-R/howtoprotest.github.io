@@ -73,6 +73,7 @@ html {
     padding-right: 20px;
     position: sticky;
     height: 80px;
+    background-color: brown;
 }
 
 #navigation-buttons * {
@@ -95,6 +96,7 @@ html {
     height: 80px;
     position: sticky;
     height: 80px;
+    background-color: brown;
 }
 
 #next-button a,img {
