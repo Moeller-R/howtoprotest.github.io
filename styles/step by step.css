@@ -69,6 +69,7 @@ html {
 }
 
 #navigation-buttons {
+    border-radius: 10px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -94,6 +95,7 @@ html {
 }
 
 #next-button {
+    border-radius: 10px;
     height: 81px;
     width: 100%;
     background-color: #83243d;
