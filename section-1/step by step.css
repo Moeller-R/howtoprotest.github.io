@@ -15,7 +15,7 @@ html {
 }
 
 #main {
-    background-image: url(..\images\backgroundfortext.png);
+    background-image: url(../images/backgroundfortext.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
