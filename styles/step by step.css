@@ -104,6 +104,7 @@ html {
 }
 
 #next-button a,img {
+    margin-top: -10px;
     width: 170px;
     height: 68px;
 }
