@@ -23,6 +23,7 @@ html {
     padding: 80px;
     display: flex;
     align-content: space-between;
+    flex-direction: column;
 }
 
 #main-elements {
