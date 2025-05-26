@@ -59,11 +59,14 @@ html {
     align-items: center;
     margin: 10px;
     height: fit-content;
-    background-color: aliceblue;
-    border-radius: 10px;
+    background-color: #83243d;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
     padding: 5px;
     border: 7px solid black;
+    color: aliceblue;
 }
+
 
 #content {
     display: flex;
