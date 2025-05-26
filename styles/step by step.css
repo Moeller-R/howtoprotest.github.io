@@ -31,7 +31,8 @@ html {
 #main-elements {
     display: flex; 
     flex-direction: column;
-    margin: 20px;
+    margin: 0px 30px;
+    justify-self: stretch;
     justify-content: flex-start;
     overflow: scroll;
     overflow-x: hidden;
