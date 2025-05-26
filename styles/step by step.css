@@ -53,6 +53,10 @@ html {
     padding: 5px;
     border: 7px solid black;
     color: aliceblue;
+    box-shadow: inset -3px -3px 3px #541a2a,
+                inset 3px 3px 3px #541a2a,
+                inset -3px 3px 3px #541a2a,
+                inset 3px -3px 3px #541a2a;
 }
 
 #step {
@@ -67,11 +71,14 @@ html {
     padding: 5px;
     border: 7px solid black;
     color: aliceblue;
+    box-shadow: inset -3px -3px 3px #541a2a,
+                inset 3px 3px 3px #541a2a,
+                inset -3px 3px 3px #541a2a,
+                inset 3px -3px 3px #541a2a;
+}
+
+#step h2 {
     text-align: center;
-    box-shadow: inset -3px -3px 3px #83243d,
-                inset 3px 3px 3px #83243d,
-                inset -3px 3px 3px #83243d,
-                inset 3px -3px 3px #83243d;
 }
 
 
