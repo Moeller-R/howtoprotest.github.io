@@ -69,8 +69,8 @@ html {
 }
 
 #navigation-buttons * {
-    width: 50;
-    height: 125;
+    width: 125px;
+    height: 50px;
 }
 
 #next-button {
