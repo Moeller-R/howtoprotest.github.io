@@ -140,7 +140,8 @@ html {
     
 }
 
-#bottom-navigation-buttons a,img {
+#bottom-navigation-buttons a, #bottom-navigation-buttons img {
+    margin-top: -10px;
     width: 170px;
     height: 68px;
 }
