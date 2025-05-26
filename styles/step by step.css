@@ -97,6 +97,7 @@ html {
     width: 100%;
     position: sticky;
     background-color: brown;
+    justify-self: end;
 }
 
 #next-button a,img {
