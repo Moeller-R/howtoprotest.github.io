@@ -91,7 +91,7 @@ html {
     margin-top: -20px;
 }
 
-#next-button * {
+#next-button a,img {
     size: inherit;
 }
 
