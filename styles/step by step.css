@@ -86,6 +86,10 @@ html {
     height: 50px;
 }
 
+#navigation-buttons a {
+    display: block;
+}
+
 #navigation-buttons img {
     border: 5px solid grey;
     border-radius: 5px;
@@ -116,6 +120,7 @@ html {
 #next-button a {
     display: block;
 }
+
 #next-button img {
     border: 5px solid darkred;
     border-radius: 20px;
