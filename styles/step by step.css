@@ -65,6 +65,7 @@ html {
     justify-content: center;
     align-items: center;
     margin: 10px;
+    padding: 0px;
     height: fit-content;
     background-color: #b31942;
     border-top-right-radius: 50px;
