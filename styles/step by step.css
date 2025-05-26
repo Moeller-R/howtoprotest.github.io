@@ -83,7 +83,7 @@ html {
     width: 125px;
     height: 50px;
     display: flex;
-    align-items: center;
+    align-items: baseline;
     justify-items: center;
 }
 
