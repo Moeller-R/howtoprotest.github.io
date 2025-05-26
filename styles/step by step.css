@@ -32,7 +32,7 @@ html {
     display: flex; 
     flex-direction: column;
     margin-left: 30px;
-
+    justify-content: flex-start;
     overflow: scroll;
     overflow-x: hidden;
     scrollbar-width: thin;
