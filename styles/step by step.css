@@ -62,7 +62,7 @@ html {
 
 #step {
     display: flex;
-    justify-items: center;
+    justify-content: center;
     align-items: center;
     margin: 10px;
     height: fit-content;
