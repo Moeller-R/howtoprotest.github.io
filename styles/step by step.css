@@ -77,7 +77,7 @@ html {
                 inset -2px 2px 2px #541a2a,
                 inset 2px -2px 2px #541a2a;
     text-shadow: -1px 1px 2px #541a2a;
-    line-height: 1;
+    line-height: 0.5;
 }
 
 
