@@ -97,6 +97,7 @@ html {
 
 #content p {
     text-wrap: pretty;
+    line-height: 2px;
 }
 
 #top-navigation-buttons {
