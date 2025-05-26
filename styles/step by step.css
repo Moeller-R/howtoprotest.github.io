@@ -20,7 +20,7 @@ html {
     background-attachment: fixed;
     background-size: 100% 100%;
     background-color: #83243d;
-    padding: 0px 80px;
+    padding: 0px 75px;
     display: flex;
     justify-content: space-between;
     flex-direction: column;
@@ -36,6 +36,7 @@ html {
     justify-content: flex-start;
     overflow: scroll;
     overflow-x: hidden;
+    scroll-margin-right: -30px;
     scrollbar-width: thin;
     height: 100%;
 }
