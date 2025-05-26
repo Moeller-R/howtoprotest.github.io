@@ -74,12 +74,12 @@ html {
 }
 
 #navigation-buttons img {
-    border: 5px solid black;
+    border: 5px solid grey;
     border-radius: 5px;
-    box-shadow: inset -5px -5px 2px black,
-                inset 5px 5px 2px black,
-                -5px -5px 2px black,
-                5px 5px 2px black;
+    box-shadow: inset -5px -5px 5px black,
+                inset 5px 5px 5px black,
+                -2px -2px 5px black,
+                2px 2px 5px black;
 }
 
 #next-button {
