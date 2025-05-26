@@ -113,11 +113,11 @@ html {
     width: 125px;
     height: 50px;
     display: flex;
-    align-items: flex-end;
     justify-items: center;
 }
 
 #top-navigation-buttons img {
+    align-self: center;
     width: inherit;
     height: inherit;
     border: 5px solid grey;
