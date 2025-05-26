@@ -152,7 +152,7 @@ html {
 }
 
 #bottom-navigation-buttons img {
-    border: 5px solid rgb(0, 0, 0);
+    border: 5px solid #541a2a;
     border-radius: 20px;
     box-shadow: -2px -2px 5px black,
                 2px 2px 5px black,
