@@ -64,8 +64,13 @@ html {
 
 #navigation-buttons {
     display: flex;
-    align-items: center;
+    align-content: center;
     justify-content: space-between;
+}
+
+#navigation-buttons * {
+    width: 50;
+    height: 125;
 }
 
 #next-button {
