@@ -73,6 +73,13 @@ html {
     height: 50px;
 }
 
+#navigation-buttons img {
+    box-shadow: inset -5px -5px 5px black,
+                inset 5px 5px 5px black,
+                -5px -5px 5px black,
+                5px 5px 5px black;
+}
+
 #next-button {
     align-self: flex-end;
     width: 200px;
