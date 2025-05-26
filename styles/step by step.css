@@ -43,7 +43,7 @@ html {
 
 #section {
     display: flex;
-    justify-content: flex-start;
+    justify-items: flex-start;
     align-items: center;
     margin: 10px;
     height: fit-content;
@@ -51,7 +51,7 @@ html {
 
 #step {
     display: flex;
-    justify-content: flex-start;
+    justify-items: flex-start;
     align-items: center;
     margin: 10px;
     height: fit-content;
@@ -72,7 +72,7 @@ html {
     border-radius: 0px 0px 10px 10px;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-items: space-between;
     padding-left: 20px;
     padding-right: 20px;
     height: 81px;
@@ -105,9 +105,8 @@ html {
     background-color: #83243d;
     align-self: flex-end;
     display: flex;
-    align-content: center;
     align-items: center;
-    justify-content: flex-end;
+    justify-items: flex-end;
 }
 
 #next-button a,img {
