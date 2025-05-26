@@ -21,7 +21,8 @@ html {
     background-size: 100% 100%;
     background-color: red;
     padding: 80px;
-
+    display: flex;
+    align-content: space-between;
 }
 
 #main-elements {
