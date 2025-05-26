@@ -88,6 +88,7 @@ html {
     align-self: flex-end;
     width: 200px;
     height: 80px;
+    margin-top: -20px;
 }
 
 #next-button * {
