@@ -96,6 +96,7 @@ html {
 }
 
 #next-button img {
+    border: 5px solid darkred;
     border-radius: 5px;
     box-shadow: -2px -2px 5px darkred,
                 2px 2px 5px darkred,
