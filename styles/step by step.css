@@ -96,6 +96,8 @@ html {
     width: 100%;
     background-color: #83243d;
     justify-self: flex-end;
+    display: flex;
+    align-content: center;
 }
 
 #next-button a,img {
@@ -108,9 +110,9 @@ html {
 }
 #next-button img {
     border: 5px solid darkred;
-    border-radius: 5px;
-    box-shadow: -2px -2px 5px darkred,
-                2px 2px 5px darkred,
-                -2px 2px 5px darkred,
-                2px -2px 5px darkred;
+    border-radius: 20px;
+    box-shadow: -2px -2px 5px black,
+                2px 2px 5px black,
+                -2px 2px 5px black,
+                2px -2px 5px black;
 }
