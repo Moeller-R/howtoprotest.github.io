@@ -75,6 +75,7 @@ html {
 
 #navigation-buttons img {
     border: 2px solid black;
+    border-radius: 5px;
     box-shadow: inset -5px -5px black,
                 inset 5px 5px black,
                 -5px -5px black,
