@@ -80,7 +80,7 @@ html {
     background-color: #83243d;
 }
 
-#navigation-buttons * {
+#navigation-buttons a {
     width: 125px;
     height: 50px;
 }
