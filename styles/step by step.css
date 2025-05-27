@@ -92,7 +92,8 @@ html {
                 2px 2px 2px black,
                 -2px 2px 2px black,
                 2px -2px 2px black;
-    height: 100%;
+    height: fit-content;
+    min-height: 100%;
 }
 
 #content h3 {
