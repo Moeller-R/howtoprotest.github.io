@@ -83,7 +83,7 @@ html {
 #content {
     justify-content: flex-start;
     flex-direction: column;
-    display: inline-flex
+    display: inline-flex;
     margin: 2px 10px 10px 10px;
     background-color: aliceblue;
     border-radius: 10px;
