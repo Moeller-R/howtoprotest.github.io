@@ -97,11 +97,13 @@ html {
 
 #content h3 {
     text-align: center;
+    font-size: 25px;
 }
 
 #content p {
+    font-size: 20px;
     text-wrap: pretty;
-    line-height: 2;
+    line-height: 1.4;
 }
 
 #top-navigation-buttons {
