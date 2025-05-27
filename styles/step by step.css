@@ -93,7 +93,6 @@ html {
                 -2px 2px 2px black,
                 2px -2px 2px black;
     justify-self: stretch;
-    min-height: 100%;
 }
 
 #content h3 {
