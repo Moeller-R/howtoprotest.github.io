@@ -106,6 +106,18 @@ html {
     line-height: 1.4;
 }
 
+#bad-list li {
+    color: #6b0f28;
+    line-height: 1.8;
+    margin: 0px;
+}
+
+#good-list li {
+    color:#012b20;
+    line-height: 1.8;
+    margin: 0px;
+}
+
 #top-navigation-buttons {
     border-radius: 0px 0px 10px 10px;
     display: flex;
