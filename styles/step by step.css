@@ -92,8 +92,6 @@ html {
                 2px 2px 2px black,
                 -2px 2px 2px black,
                 2px -2px 2px black;
-    height: fit-content;
-    min-height: 100%;
     justify-self: stretch;
 }
 
