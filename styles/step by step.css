@@ -19,7 +19,7 @@ html {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
-    background-color: #83243d;
+    background-color: #6b0f28;
     padding: 0px 75px;
     display: flex;
     justify-content: space-between;
@@ -51,11 +51,11 @@ html {
     background-color: #b31942;
     border: 7px solid black;
     color: aliceblue;
-    box-shadow: inset -2px -2px 2px #541a2a,
-                inset 2px 2px 2px #541a2a,
-                inset -2px 2px 2px #541a2a,
-                inset 2px -2px 2px #541a2a;
-    text-shadow: -1px 1px 2px #541a2a;
+    box-shadow: inset -2px -2px 2px #6b0f28,
+                inset 2px 2px 2px #6b0f28,
+                inset -2px 2px 2px #6b0f28,
+                inset 2px -2px 2px #6b0f28;
+    text-shadow: -1px 1px 2px #6b0f28;
     line-height: 0.001;
 }
 
@@ -71,11 +71,11 @@ html {
     padding: 5px 20px;
     border: 7px solid black;
     color: aliceblue;
-    box-shadow: inset -2px -2px 2px #541a2a,
-                inset 2px 2px 2px #541a2a,
-                inset -2px 2px 2px #541a2a,
-                inset 2px -2px 2px #541a2a;
-    text-shadow: -1px 1px 2px #541a2a;
+    box-shadow: inset -2px -2px 2px #6b0f28,
+                inset 2px 2px 2px #6b0f28,
+                inset -2px 2px 2px #6b0f28,
+                inset 2px -2px 2px #6b0f28;
+    text-shadow: -1px 1px 2px #6b0f28;
     line-height: 0.001;
 }
 
@@ -127,7 +127,7 @@ html {
     align-self: center;
     width: inherit;
     height: inherit;
-    border: 5px solid grey;
+    border: 5px solid #997d3d;
     border-radius: 5px;
     box-shadow: -2px -2px 5px black,
                 2px 2px 5px black,
@@ -158,7 +158,7 @@ html {
 }
 
 #bottom-navigation-buttons img {
-    border: 5px solid #541a2a;
+    border: 5px solid #6b0f28;
     border-radius: 20px;
     box-shadow: -2px -2px 5px black,
                 2px 2px 5px black,
