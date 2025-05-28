@@ -107,13 +107,13 @@ html {
 }
 
 .bad-list li {
-    color: red;
+    color:#6b0f28;
     line-height: 1.8;
     margin: 10px 0px;
 }
 
 .good-list li {
-    color: green;
+    color:#012b20;
     line-height: 1.8;
     margin: 10px 0px;
 }
