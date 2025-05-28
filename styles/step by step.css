@@ -109,13 +109,13 @@ html {
 .bad-list li {
     color: red;
     line-height: 1.8;
-    margin: 0px;
+    margin: 10px 0px;
 }
 
 .good-list li {
     color: green;
     line-height: 1.8;
-    margin: 0px;
+    margin: 10px 0px;
 }
 
 #top-navigation-buttons {
