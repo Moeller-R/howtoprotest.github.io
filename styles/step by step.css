@@ -106,13 +106,13 @@ html {
     line-height: 1.4;
 }
 
-#bad-list li {
+.bad-list li {
     color: red;
     line-height: 1.8;
     margin: 0px;
 }
 
-#good-list li {
+.good-list li {
     color: green;
     line-height: 1.8;
     margin: 0px;
