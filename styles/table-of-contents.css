@@ -36,6 +36,7 @@ html {
     height: 570px;
     width: 459px;
     justify-content: space-evenly;
+    overflow: scroll;
 }
 
 .section {
