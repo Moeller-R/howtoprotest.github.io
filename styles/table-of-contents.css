@@ -37,6 +37,8 @@ html {
     width: 459px;
     justify-content: space-evenly;
     overflow: scroll;
+    scrollbar-width: thin;
+    overflow-x: hidden;
 }
 
 .section {
