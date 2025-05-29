@@ -35,7 +35,7 @@ html {
     flex-direction: column;
     height: 570px;
     width: 459px;
-    align-items: space-between;
+    align-content: space-between;
     justify-items: center;
 }
 
