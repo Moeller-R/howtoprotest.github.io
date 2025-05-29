@@ -55,6 +55,11 @@ html {
     margin: 3px 0px;
 }
 
+.section a:hover {
+    background-color: #480c1c;
+    color: rgb(127, 130, 132);
+}
+
 .section h3 {
     margin: 3px 0px;
 }
