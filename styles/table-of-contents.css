@@ -30,8 +30,8 @@ html {
 #main-elements {
     display: flex;
     flex-direction: column;
-    width: 850px;
-    height: 950px;
+    width: 271px;
+    height: 321px;
 }
 
 .section {
