@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+html,body,div{
+    margin: 0px;
+    padding: 0px;
+}
+
+html {
+   margin: 0px;
+   padding: 0px;
+   height: 100%;
+   width: 100%;
+}
+
+#main {
+    background-image: url(../images/table-of-contents-background.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-color: #6b0f28;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    overflow: visible;
+    height: 100%;
+}
+
+#main-elements {
+    display: flex;
+    flex-direction: column;
+    width: 850px;
+    height: 950px;
+}
