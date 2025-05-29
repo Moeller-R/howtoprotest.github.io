@@ -40,7 +40,6 @@ html {
     scrollbar-width: thin;
     overflow-x: hidden;
     scrollbar-gutter: stable;
-    scroll-margin-left: 30px;
 }
 
 .section {
