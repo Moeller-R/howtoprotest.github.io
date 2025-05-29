@@ -62,17 +62,17 @@ html {
     padding: 3px;
 }
 
-.section h3 {
-    text-align: center;
-    background-color: #480c1c;
-    color: aliceblue;
-}
-
 .section a:hover {
     background-color: #480c1c;
     color: rgb(127, 130, 132);
 }
 
 .section h3 {
+    text-align: center;
+    background-color: #480c1c;
+    color: aliceblue;
     margin: 3px 0px;
+    padding: 5px;
 }
+
+
