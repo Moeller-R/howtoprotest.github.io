@@ -35,8 +35,8 @@ html {
     flex-direction: column;
     height: 570px;
     width: 459px;
-    align-items: center;
-    justify-items: space-between;
+    align-items: space-between;
+    justify-items: center;
 }
 
 .section {
