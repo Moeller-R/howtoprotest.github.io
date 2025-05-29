@@ -42,6 +42,12 @@ html {
     scrollbar-gutter: stable;
 }
 
+#header {
+    text-align: center;
+    background-color: #480c1c;
+    color: aliceblue;
+}
+
 .section {
     display: flex;
     flex-direction: column;
@@ -54,6 +60,12 @@ html {
     text-decoration: none;
     margin: 3px 0px;
     padding: 3px;
+}
+
+.section h3 {
+    text-align: center;
+    background-color: #480c1c;
+    color: aliceblue;
 }
 
 .section a:hover {
