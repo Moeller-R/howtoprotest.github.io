@@ -36,9 +36,10 @@ html {
     height: 570px;
     width: 459px;
     justify-content: space-evenly;
-    overflow: scroll;
+    overflow: auto;
     scrollbar-width: thin;
     overflow-x: hidden;
+    scroll-margin-right: 10px;
 }
 
 .section {
