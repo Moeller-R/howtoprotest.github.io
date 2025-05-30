@@ -189,3 +189,7 @@ html {
 .undecorated-list li{
     list-style-type: none;
 }
+
+.undecorated-list h3 {
+    font-size: 14;
+}
