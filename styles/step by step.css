@@ -178,6 +178,10 @@ html {
                 2px -2px 5px black;
 }
 
+.buffer {
+    pointer-events: none;
+    cursor: default;
+}
 
 .button:hover {
     filter: brightness(70%)
