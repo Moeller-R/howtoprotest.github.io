@@ -112,6 +112,7 @@ html {
     margin: 5px 0px 20px 0px;
     background-color:#b31942;
     text-align: center;
+    padding: 10px default;
 }
 
 .good-list li {
@@ -121,6 +122,7 @@ html {
     background-color: #048060;
     text-align: center;
     border-radius: 10px;
+    padding: 10px default;
 }
 
 #top-navigation-buttons {
