@@ -169,7 +169,7 @@ html {
     justify-items: center;
 }
 
-#bottom-navigation-buttons img {
+#bottom-navigation-buttons .button {
     border: 5px solid #012b20;
     border-radius: 20px;
     box-shadow: -2px -2px 5px black,
