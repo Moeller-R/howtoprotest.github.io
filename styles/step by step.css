@@ -178,8 +178,7 @@ html {
                 2px -2px 5px black;
 }
 
-.buffer:hover {
-    pointer-events: none;
+.buffer {
     cursor: default;
 }
 
