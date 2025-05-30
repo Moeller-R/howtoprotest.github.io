@@ -179,6 +179,7 @@ html {
 }
 
 #alone {
+    display: flex;
     justify-self: flex-end;
     justify-items: flex-end;
 }
