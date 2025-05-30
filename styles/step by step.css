@@ -182,3 +182,6 @@ html {
     justify-self: flex-end;
 }
 
+.button:hover {
+    filter: invert(100%)
+}
