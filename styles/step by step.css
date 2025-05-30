@@ -107,15 +107,17 @@ html {
 }
 
 .bad-list li {
-    color:#b31942;
+    color: aliceblue;
     line-height: 1.8;
     margin: 5px 0px 20px 0px;
+    background-color: #048060;
 }
 
 .good-list li {
-    color:#048060;
+    color: aliceblue;
     line-height: 1.8;
     margin: 5px 0px 20px 0px;
+    background-color: #b31942;
 }
 
 #top-navigation-buttons {
