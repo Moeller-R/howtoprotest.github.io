@@ -198,7 +198,7 @@ html {
     margin-top: 15px;
 }
 
-.undecorated-list li ol {
+.undecorated-list li ol li {
     list-style-type: decimal;
 }
 
