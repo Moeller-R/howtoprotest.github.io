@@ -183,5 +183,5 @@ html {
 }
 
 .button:hover {
-    filter: invert(100%)
+    filter: brightness(70%)
 }
