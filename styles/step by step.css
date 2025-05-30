@@ -109,13 +109,13 @@ html {
 .bad-list li {
     color:#b31942;
     line-height: 1.8;
-    margin: 0px 0px 20px 0px;
+    margin: 5px 0px 20px 0px;
 }
 
 .good-list li {
     color:#048060;
     line-height: 1.8;
-    margin: 0px 0px 20px 0px;
+    margin: 5px 0px 20px 0px;
 }
 
 #top-navigation-buttons {
@@ -191,10 +191,11 @@ html {
     display: contents;
 }
 
-.undecorated-list li{
+.undecorated-list li {
     list-style-type: none;
     padding-left: 50px;
     padding-right: 50px;
+    margin-top: 15px;
 }
 
 #content .undecorated-list li h3 {
