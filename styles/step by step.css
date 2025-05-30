@@ -197,6 +197,6 @@ html {
     padding-right: 50px;
 }
 
-.undecorated-list h3 {
+.undecorated-list li h3 {
     font-size: 15px;
 }
