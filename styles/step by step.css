@@ -178,3 +178,7 @@ html {
                 2px -2px 5px black;
 }
 
+#next-button {
+    justify-self: flex-end;
+}
+
