@@ -189,6 +189,8 @@ html {
 
 .undecorated-list {
     display: contents;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .undecorated-list li{
