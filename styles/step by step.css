@@ -186,6 +186,6 @@ html {
     filter: brightness(70%)
 }
 
-#undecorated-list {
+.undecorated-list li{
     list-style-type: none;
 }
