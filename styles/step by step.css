@@ -186,6 +186,11 @@ html {
     filter: brightness(70%)
 }
 
+
+.undecorated-list {
+    display: contents;
+}
+
 .undecorated-list li{
     list-style-type: none;
 }
