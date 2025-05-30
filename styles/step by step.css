@@ -179,7 +179,7 @@ html {
 }
 
 #next-button {
-    justify-self: flex-end;
+    align-self: flex-end;
 }
 
 .button:hover {
