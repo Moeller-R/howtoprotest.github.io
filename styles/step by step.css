@@ -112,7 +112,8 @@ html {
     margin: 5px 0px 20px 0px;
     background-color:#b31942;
     text-align: center;
-    padding: 10px initial;
+    border-radius: 10px;
+    padding: 20px initial;
 }
 
 .good-list li {
