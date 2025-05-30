@@ -113,7 +113,8 @@ html {
     background-color:#b31942;
     text-align: center;
     border-radius: 10px;
-    padding-top: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 .good-list li {
@@ -123,6 +124,8 @@ html {
     background-color: #048060;
     text-align: center;
     border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 #top-navigation-buttons {
