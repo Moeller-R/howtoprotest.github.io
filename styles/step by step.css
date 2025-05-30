@@ -200,6 +200,7 @@ html {
 
 .undecorated-list li ol li {
     list-style-type: decimal;
+    margin-top: 10px;
 }
 
 #content .undecorated-list li h3 {
