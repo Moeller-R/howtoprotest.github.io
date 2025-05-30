@@ -182,7 +182,7 @@ html {
     cursor: default;
 }
 
-.button:hover {
+.a:hover {
     filter: brightness(70%)
 }
 
