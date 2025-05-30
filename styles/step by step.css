@@ -189,12 +189,12 @@ html {
 
 .undecorated-list {
     display: contents;
-    padding-left: 50px;
-    padding-right: 50px;
 }
 
 .undecorated-list li{
     list-style-type: none;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 .undecorated-list h3 {
