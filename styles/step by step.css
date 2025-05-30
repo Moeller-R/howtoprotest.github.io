@@ -177,11 +177,7 @@ html {
                 -2px 2px 5px black,
                 2px -2px 5px black;
 }
-#alone {
-    display: flex;
-    justify-content: flex-end;
-    justify-self: flex-end;
-}
+
 
 .button:hover {
     filter: brightness(70%)
