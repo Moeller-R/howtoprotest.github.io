@@ -198,6 +198,10 @@ html {
     margin-top: 15px;
 }
 
+.undecorated-list li ol {
+    list-style-type: decimal;
+}
+
 #content .undecorated-list li h3 {
     font-size: 15px;
 }
